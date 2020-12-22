@@ -1,0 +1,114 @@
+.container{
+
+    margin-bottom: 50px;
+    background-color: #F0FFF0;
+}
+
+
+.sign-in{
+
+    background: #21B573;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+}
+
+#logo img{
+    background-color: #F0FFF0;
+}
+
+#h2{
+
+    color: #21B573;
+}
+
+.learn{
+
+    padding: 20px 20px;
+    padding-left: 20px;
+    align-items: center;
+}
+
+#red {
+    color: #FD511A;
+}
+
+#green{
+    color: #21B573;
+}
+
+.icon img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+  
+}
+
+.small {
+
+    width: 50px;
+}
+.modern{
+    color: #413960;
+    height: 36px;
+    width: 237px;
+    left: 158px;
+    top: 1379px;
+    border-radius: nullpx;
+   
+
+}
+.date{
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.man img{
+
+    width: 200px;
+    margin-left: 150px;
+}
+
+#testi{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+background-image: none;
+background-color: white;
+}
+.background{
+    background: #282531;
+   
+    height: 369px;
+width: 1440px;
+left: 0px;
+top: 2013px;
+border-radius: 0px;
+
+    ;
+}
+
+.letter{
+    color: white;
+    padding: 50px 120px;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+footer{
+    color: white;
+   padding-left: 100px;
+}
